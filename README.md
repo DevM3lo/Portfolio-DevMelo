@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio pessoal, criado para apresentar meus projetos, artigos e estudos em **Desenvolvimento Backend**, **Java** e **Engenharia de Software**.
 
-🔗 **Demo Online:** *Em breve na Vercel*
+🔗 **Demo Online:** [*Portfolio Dev Melo*](https://portfoliodevmelo.vercel.app/)
 
 ---
 
